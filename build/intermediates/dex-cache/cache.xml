@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.6/3e63a25de4065697b185f523ed5e020c0db3ff0/jackson-databind-2.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="03e63a25de4065697b185f523ed5e020c0db3ff0">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/jackson-databind-2.4.6_7f16d6ebe3e684ee9c36db6fbe5eac69cf4c6fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.6/45fbe307f43974ee4a6434c352d7314bb76f89ac/jackson-annotations-2.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="45fbe307f43974ee4a6434c352d7314bb76f89ac">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.6_e1d47c4a6b3df917a26a743faad742431160447c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/exploded-aar/com.shamanland/fonticon/0.1.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f47c528455a95ed134e48b24009132bf5f888e4b">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/com.shamanland-fonticon-0.1.8_15db152799a6d4e788f93cac7c69df4fe0b01b5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/slobber/build/libs/slobber-0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3a05c1ebbd3d1bcc6d21c5acb91ec1e908494076">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/slobber-0.9_7fee29a10dafb0b8210ab61a9f67338952a1ee4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/slobber/libs/simple-5.1.7.1.itkach.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9c3e911f90c3ad32b6ae1de94b7107f6d7f4c6da">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/simple-5.1.7.1.itkach_918cd31c19c2ac4b9230bd04a4ae0c76b724b19e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j/52.1/7dbc327670673acd14b487d120f05747d712c1c0/icu4j-52.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7dbc327670673acd14b487d120f05747d712c1c0">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/icu4j-52.1_4354ab55eb4b0ed86ae7f8adeaf691d1c0ce145a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/libs/android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="41c6fb0537e463f685d3235fc50d38dc540d6ece">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/android-support-v13_10eb0863274c1628c5199cb299bab527f4c4f1ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/slobj/build/libs/slobj-0.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="253941fe2f3ebfc5331fdfa0f9b2d6f410c8ed9f">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/slobj-0.8_5d6638b6e1f26b858c99a0f9c3dbb439b9b79168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.6/2a1f6edb86b8c6d29f37f6a807295d4e5c279707/jackson-core-2.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2a1f6edb86b8c6d29f37f6a807295d4e5c279707">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/jackson-core-2.4.6_44a41b11111529ae09a9fb23522e37eae30b02de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjiaping/.gradle/caches/modules-2/files-2.1/org.tukaani/xz/1.5/9c64274b7dbb65288237216e3fae7877fd3f2bee/xz-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9c64274b7dbb65288237216e3fae7877fd3f2bee">
+        <dex dex="/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/pre-dexed/debug/xz-1.5_fc40f70329ece76ebc29d45a46f25d7df4038f66.jar" />
+    </item>
+
+</items>
